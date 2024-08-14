@@ -11,5 +11,4 @@ Following is the summary of what has been done:
 * Import GloVe Word Embedding to build Embedding Dictionary + Use this to build Embedding Matrix for our Corpus
 * Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN and LSTM Models and analyse model performance and results
 * Last, perform predictions on real IMDb movie reviews
-  
-You can find the drive link for the above [here](https://drive.google.com/drive/folders/1BlsxijsSv12ERtwOeZfPlxI_SvZ9vF7v?usp=sharing).
+
